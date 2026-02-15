@@ -1,3 +1,6 @@
+無給でお仕事します
+場数を踏みたいので案件お待ちしております
+
 # my-sql-practice
 タイトル: PostgreSQL-Practice
 
